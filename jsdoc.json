@@ -1,0 +1,15 @@
+{
+	"opts": {
+		"template": "./node_modules/foodoc/template",
+		"destination": "./docs",
+		"recurse": true
+	},
+
+	"templates": {
+		"systemName": "Mosaic",
+		"systemSummary": "WIP framework for building portable JavaScript apps inspired by Android, UWP and Flutter.",
+		"copyright": "Mosaic Copyright © 2020 Marlon Macedo.",
+		"collapseSymbols": false,
+		"systemColor": "royalblue"
+	}
+}
